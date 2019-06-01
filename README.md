@@ -5,3 +5,4 @@ Just for test.
 # Use TortoiseGit to Edit.
 confilt test 1 , 
 confilt test 2, 
+confilt test 3, local ,confilt with remote. 
