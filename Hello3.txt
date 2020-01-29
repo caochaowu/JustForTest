@@ -1,1 +1,168 @@
 easy test. 
+
+
+
+applets 单步调试？开发板上不能单步调试， linux下仿真环境下是否能单步调试待确认。
+macropython 单步调试  ?  
+     这个可以，也还没试过。 理论上可以，实际上 还走通， keil工程？  
+     现在主要是Linux下编译成目标文件，然后下载进目标板。没法单步调试
+
+-gdwarf-2 -g3
+
+
+520 曹武 
+523 金付华
+521/522 田紫娟  (521是紫鹃随州182的号)
+525 曹易成  
+
+
+Python/C API Reference Manual
+
+python -m pydoc -p 4895
+
+
+sudo apt-get install gcc-4.8-multilib g++-4.8-multilib
+
+解决方法：主要是下载32位的编译库。可以安装：
+sudo apt-get install lib32readline-gplv2-dev
+我使用的是Ubuntu16.04 64位系统，这个方法没有作用，还需要安装：
+sudo apt-get install gcc-4.8-multilib g++-4.8-multilib
+
+
+
+-gdwarf-2 -g3
+demo_fun_class
+yeah, but 
+
+datepat = re.compile(r'(\d+)/(\d+)/(\d+)$')
+datepat.match('11/27/2012abcdef')
+datepat.match('11/27/2012')
+
+華爾街國際實業集團有限公司
+盛富控股集團有限公司
+
+@张k?
+点击我要查询～纳税信息～
+（此时显示支付宝登录，确认授权）
+～纳税信息～
+（此时显示有登记信息、社保信息、税款信息共三项），
+点击税款信息后就可以查到交费信息了
+
+27.39+16.5+15.8+0.99+0.99+0.99+12.9+9.5+0.2
+
+Could not install doc8. Please run `pip install doc8` to use this extension, or check your python path.
+C:\Users\caoch>pip install doc8
+'pip' 不是内部或外部命令，也不是可运行的程序
+或批处理文件C:\Users\caoch>pip install doc8
+Collecting doc8
+  Using cached https://files.pythonhosted.org/packages/d8/39/5427135280657da69b800cebb153f40b5f3209c636659c35a19c8760428a/doc8-0.8.0-py2.py3-none-any.whl
+Collecting stevedore (from doc8)
+  Using cached https://files.pythonhosted.org/packages/b1/e1/f5ddbd83f60b03f522f173c03e406c1bff8343f0232a292ac96aa633b47a/stevedore-1.31.0-py2.py3-none-any.whl
+Requirement already satisfied: chardet in c:\users\caoch\appdata\local\programs\python\python37\lib\site-packages (from doc8) (3.0.4)
+Requirement already satisfied: six in c:\users\caoch\appdata\local\programs\python\python37\lib\site-packages (from doc8) (1.12.0)
+Collecting restructuredtext-lint>=0.7 (from doc8)
+  Using cached https://files.pythonhosted.org/packages/62/76/bd8760de759fb74d7863e6935200af101cb128a7de008741a4e22341d03c/restructuredtext_lint-1.3.0.tar.gz
+Requirement already satisfied: docutils in c:\users\caoch\appdata\local\programs\python\python37\lib\site-packages (from doc8) (0.15.2)
+Collecting pbr!=2.1.0,>=2.0.0 (from stevedore->doc8)
+  ERROR: Could not find a version that satisfies the requirement pbr!=2.1.0,>=2.0.0 (from stevedore->doc8) (from versions: none)
+ERROR: No matching distribution found for pbr!=2.1.0,>=2.0.0 (from stevedore->doc8)。
+
+git@github.com:caochaowu/JustForTest.git
+https://github.com/caochaowu/JustForTest.git
+
+git@github.com:caochaowu/micropython.git
+git clone -b study git@github.com:caochaowu/micropython.git
+
+C:\Users\caoch\Desktop\workspace\Git\micropython\micropython_ccw_git\tests\basics
+
+make submodules
+
+ Pylint command-line arguments
+ 
+ RT-Thread MicroPython IDE 正式版本已经发布了，可以直接在 VS CODE 插件搜索 RT-Thread Micropython 来下载使用，介绍链接：
+https://marketplace.visualstudio.com/items?itemName=RT-Thread.rt-thread-micropython有任何问题都可以在群里交流，欢迎大家基于 MicroPython 实现自己的想法，创意，我们会提供 MicroPython 相关的技术支持。 
+最新固件可以在 RT-Thread 论坛固件汇总贴下载，地址如下：
+https://www.rt-thread.org/qa/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=20
+资料文档可以参见 RT-Thread 官方文档中心：
+https://www.rt-thread.org/document/site/submodules/micropython/docs/introduction/
+MicroPython C 绑定自动生成器：
+https://summerggift.github.io/Micropython-C-Generator/
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	LNK2001	无法解析的外部符号 _mp_module_framebuf	micropython	C:\Users\caoch\Desktop\workspace\Git\micropython\micropython_ccw_git\ports\windows\objmodule.obj	1	
+C:\Users\caoch\Desktop\Projects\python\pip\testInstall\wordcloud-1.6.0-cp38-cp38-win_amd64.whl
+
+
+C:\Users\caoch\Desktop\workspace\Git\PythonPractise\osTest\weixin_20190508154907.png
+C:\Windows\System32\mspaint.exe
+%windir%\system32\mspaint.exe
+
+
+https://github.com/micropython/micropython.git
+
+https://whgjj.hkbchina.com/portal/pc/login.html
+http://wh.bendibao.com/live/2014616/58229.shtm
+
+12329
+[IDAPnRFProg for Linux](https://sourceforge.net/projects/idaplinkfirmware/files/Linux/IDAPnRFProg_1_7_190320.zip/download)
+[IDAPnRFProg for OSX](https://sourceforge.net/projects/idaplinkfirmware/files/OSX/IDAPnRFProg_1_7_190320.zip/download)
+[IDAPnRFProg for Windows](https://sourceforge.net/projects/idaplinkfirmware/files/Windows/IDAPnRFProg_1_7_190320.zip/download)
+
+[JLink Download](https://www.segger.com/downloads/jlink#)
+
+[nrfjprog Download](https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF5-Command-Line-Tools/Download#infotabs)
+
+
+[JLink Download](https://www.segger.com/downloads/jlink#)
+
+[nrfjprog Download](https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF5-Command-Line-Tools/Download#infotabs)
+
+
+
+[IDAPnRFProg for Linux](https://sourceforge.net/projects/idaplinkfirmware/files/Linux/IDAPnRFProg_1_7_190320.zip/download)
+[IDAPnRFProg for OSX](https://sourceforge.net/projects/idaplinkfirmware/files/OSX/IDAPnRFProg_1_7_190320.zip/download)
+[IDAPnRFProg for Windows](https://sourceforge.net/projects/idaplinkfirmware/files/Windows/IDAPnRFProg_1_7_190320.zip/download)
+
+
+## Segger Targets
+
+Install the necessary tools to flash and debug using Segger:
+
+[JLink Download](https://www.segger.com/downloads/jlink#)
+
+[nrfjprog Download](https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF5-Command-Line-Tools/Download#infotabs)
+
+note: On Linux it might be required to link SEGGER's `libjlinkarm.so` inside nrfjprog's folder.
+
+REGFILE=$$Device:nRF52840_xxAA$Device\Include\nrf.h
+
+
+..\..\..\..\..\..\modules\nrfx\mdk\nrf52840.h(156): error:  #5: cannot open source input file "core_cm4.h": No such file or directory
+
+
+C:\Users\caoch\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.29.0\Device\Include\nrf52840_erratas.h(276): warning:  #111-D: statement is unreachable
+
+
+--diag_suppress=111
+-D
+
+C:\Users\caoch\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.29.0\Device\Include\nrf52840_erratas.h(40): error:  #130: expected a "{"
+C:\Users\caoch\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.29.0\Device\Include\
+nrf52840_erratas.h(40): error:  #130: expected a "{"
+
+C:\Users\caoch\Desktop\workspace\Git\micropython\micropython_nrf\micropython\DownloadToNrfBoard\sdk_blink
+nrf52840_xxaa.hex
+
+C:\Users\caoch\Desktop\workspace\Git\micropython\micropython_nrf\micropython\lib\nrfx\mdk\gcc_startup_nrf52840.S
+
+C:\Users\caoch\Desktop\workspace\Git\micropython\micropython_nrf\micropython\lib\tinyusb\hw\mcu\nordic\nrf5x\s140_nrf52_6.1.1_API\include\nrf_sdm.h
+
+
+
+git diff
+
+
+git diff
+git@github.com:caochaowu/JustForTest.git
+
+该命令一次性不分页不分屏输出最近3次提交的代码历史记录。
