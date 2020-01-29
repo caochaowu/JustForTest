@@ -169,9 +169,7 @@ git@github.com:caochaowu/JustForTest.git
 uio1
 uio2
 jkm1
-<<<<<<< HEAD
 jkm2
 jkm3
 
-=======
->>>>>>> parent of 205daaa... jkm2
+
