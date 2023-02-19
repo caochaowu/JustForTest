@@ -9,3 +9,4 @@ confilt test 3, local ,confilt with remote.
 confilt test 3,   
 confilt test 4, local modify second.   
 conflit test 5, remote modify first.   
+update ssh test.
